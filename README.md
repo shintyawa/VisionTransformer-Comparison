@@ -19,7 +19,7 @@ Menganalisis pengaruh desain arsitektur terhadap performa dengan membandingkan V
 |**Logo**  | **Nama**   | **Fungsi**   |
 | -------- |------------|--------------|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code Logo" width="70">|   VSCode   |Editor kode utama untuk menulis, mengedit, dan menjalankan skrip Python dengan fitur seperti debugging, ekstensi, dan integrasi Git.|
-|<img src="https://jupyter.org" alt="Jupyter Notebook" width="70">|   Jupyter Notebook   |alat/lingkungan kerja interaktif yang digunakan untuk menulis dan menjalankan kode dalam bentuk sel, sekaligus menyimpan kode, output, teks penjelasan, rumus, dan visualisasi dalam satu dokumen (.ipynb).|
+|<img src="https://en.wikipedia.org/wiki/File:Jupyter_logo.svg" alt="Jupyter Notebook" width="70">|   Jupyter Notebook   |alat/lingkungan kerja interaktif yang digunakan untuk menulis dan menjalankan kode dalam bentuk sel, sekaligus menyimpan kode, output, teks penjelasan, rumus, dan visualisasi dalam satu dokumen (.ipynb).|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="70">|   Python   |Sebagai bahasa pemrograman utama untuk membangun dan menjalankan logika pemrosesan sinyal, analisis data, serta antarmuka sistem.|
 ---
 ## **Library yang Digunakan**
@@ -103,5 +103,5 @@ uv pip install -r requirements.txt
 ### 5. Jalankan program
 
 ```yaml
-uv run main.py
+uv run Vision_Swin_Transformer.ipynb
 ```
